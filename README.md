@@ -2,7 +2,7 @@
 
 <img src="https://data.whicdn.com/images/230097051/original.gif" align="center">
 
-<h2>About Me <img src="https://i.pinimg.com/originals/03/fd/e1/03fde12bcbc4afb0fd9625a8691aa799.gif" width="70px" height="60px" align="center"</h2>
+<h2>About Me : <img src="https://i.pinimg.com/originals/9c/ef/52/9cef52ce27ab97e0fa9cfac1cdc1007f.gif" width="70px" height="70px" align="center"</h2>
 
 <ul>
 <li>Well, my full name is Maykon Douglas Borges and I'm a computer science student at State University of Sao Paulo UNESP-FCT. Actually I'm in the second year of college.</li>
