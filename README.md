@@ -6,7 +6,7 @@
  <img src="https://data.whicdn.com/images/230097051/original.gif">
 </div>
  
-<h2 align="center">About Me : 
+<h2 align="justify">About Me : 
  <img src="https://lh4.googleusercontent.com/proxy/AIOjERc8_f_bzla-dFV4SxMfzbWG0BH79XVKJOy_Q_ifsjkXGucXaPBJLxPnSYaeiDRVTJEphfWpU-uQOd2T21in5RfsC6hZIHyNAPcqzS0s4HhOgFzjAWMvJKCSBDlhJw=s0-d" width="100px" height="70px" align="center"
 </h2>
 
