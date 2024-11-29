@@ -20,7 +20,7 @@
  
 <div width="100%" align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=maykborgs&show_icons=true&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayborgs&show_icons=true&theme=dracula" />
   </a>
 </div>
  
@@ -28,7 +28,7 @@ ___
 
 <div width="100%" align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykborgs&langs_count=10&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayborgs&langs_count=10&theme=dracula" />
   </a> 
 </div>
 
