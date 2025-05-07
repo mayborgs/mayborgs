@@ -1,5 +1,5 @@
 <h1 align="justify" >Welcome to my github page
- <img  src="https://64.media.tumblr.com/9445585fca47b561a8ab63211ed3a081/tumblr_inline_oamnayPpdR1tjlfhh_500.gifv" align="center" width="70px" height="60px"/>
+ <img  src="https://64.media.tumblr.com/9445585fca47b561a8ab63211ed3a081/tumblr_inline_oamnayPpdR1tjlfhh_500.gifv" align="center" width="120px" height="120px"/>
 </h1> 
 
 <div width="100%" align="center">
