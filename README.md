@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub page</h1>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/9445585fca47b561a8ab63211ed3a081/tumblr_inline_oamnayPpdR1tjlfhh_500.gifv" width="400px" height="500px"/>
+  <img src="https://64.media.tumblr.com/9445585fca47b561a8ab63211ed3a081/tumblr_inline_oamnayPpdR1tjlfhh_500.gifv" width="450px" height="400px"/>
 </div>
 
 
