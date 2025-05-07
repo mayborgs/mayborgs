@@ -1,7 +1,9 @@
-<h1 align="justify" >Welcome to my github page
-<br>
- <img  src="https://64.media.tumblr.com/9445585fca47b561a8ab63211ed3a081/tumblr_inline_oamnayPpdR1tjlfhh_500.gifv" align="center" width="200px" height="200px"/>
-</h1> 
+<h1 align="center">Welcome to my GitHub page</h1>
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/9445585fca47b561a8ab63211ed3a081/tumblr_inline_oamnayPpdR1tjlfhh_500.gifv" width="200px"/>
+</div>
+
 
 <div width="100%" align="center">
  <img src="https://data.whicdn.com/images/230097051/original.gif"/>
