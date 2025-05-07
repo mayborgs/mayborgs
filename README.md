@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub page</h1>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/9445585fca47b561a8ab63211ed3a081/tumblr_inline_oamnayPpdR1tjlfhh_500.gifv" width="200px"/>
+  <img src="https://64.media.tumblr.com/9445585fca47b561a8ab63211ed3a081/tumblr_inline_oamnayPpdR1tjlfhh_500.gifv" width="400px" height="500px"/>
 </div>
 
 
@@ -9,9 +9,7 @@
  <img src="https://data.whicdn.com/images/230097051/original.gif"/>
 </div>
  
-<h2 align="justify">About Me : 
- <img src="https://lh4.googleusercontent.com/proxy/AIOjERc8_f_bzla-dFV4SxMfzbWG0BH79XVKJOy_Q_ifsjkXGucXaPBJLxPnSYaeiDRVTJEphfWpU-uQOd2T21in5RfsC6hZIHyNAPcqzS0s4HhOgFzjAWMvJKCSBDlhJw=s0-d" width="100px" height="70px" align="center"/>
-</h2>
+<h2 align="center">About Me: </h2>
 
 <h3 align="justify" font-size="5px">Well, my full name is May Borges and I'm a computer science student at State University of Sao Paulo UNESP-FCT.
 </h3>
